@@ -20,8 +20,6 @@ import pgeocode
 from datetime import datetime
 from shapely.geometry import Point
 import calfire_wildfires
-import numpy as np
-import pandas as pd
 
 path = "https://github.com/jrt560/data/raw/main/supermarket.csv"
 demand_data = pd.read_csv(path)
