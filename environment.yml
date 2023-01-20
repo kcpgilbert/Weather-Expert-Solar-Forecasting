@@ -6,6 +6,6 @@ dependencies:
   - ipykernel
   - ipywidgets
   - shapely
-pip: 
-  - plotly_express
+  pip: 
+    - plotly_express
 prefix: //Users/brpagan/anaconda3/envs/forecast-env
